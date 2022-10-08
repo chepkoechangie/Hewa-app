@@ -22,3 +22,5 @@ function LocationCard() {
       </Card>
     );
   }
+
+  export default LocationCard;
