@@ -22,3 +22,5 @@ function NavbarComponent() {
       </Navbar>
     );
   }
+
+  export default NavbarComponent;
